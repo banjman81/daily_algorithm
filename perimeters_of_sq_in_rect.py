@@ -1,3 +1,4 @@
+# https://www.codewars.com/kata/559a28007caad2ac4e000083/train/python
 def perimeter(n):
     fib_list = [1, 1]
     for i in range( 1,n):
